@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo pessoas! Matheus Kyoshi Shoji</h1>
+<h1 align="center">Bem vindo pessoas!</h1>
 <h3 align="center">Por enquanto apenas passeando por aqui 👀​</h3>
 
 - 🔭 Desvendando minhas qualidades com: **KnowBree**
