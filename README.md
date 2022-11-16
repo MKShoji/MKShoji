@@ -1,7 +1,7 @@
 <h1 align="center">Bem vindo pessoas!</h1>
 <h3 align="center">Por enquanto apenas passeando por aqui 👀​</h3>
 
-- 🔭 Desvendando minhas qualidades com: **KnowBree**
+- 🔭 Desvendando minhas qualidades com: **KnowBre**
 
 - 📫 Meus contatos **matheusshoji@outlook.com**
 
